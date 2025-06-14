@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://Gangadharpadshetty.github.io/portfolio",
+  "homepage": "https://Gangadharpadshetty.github.io/portfolio/my-portfolio",
   "dependencies": {
     "framer-motion": "^10.16.4",
     "lucide-react": "^0.320.0",
